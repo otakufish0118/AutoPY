@@ -1,2 +1,2 @@
 # AutoPY
-AutoTesting
+AutoTesting Practice
